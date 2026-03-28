@@ -10,17 +10,17 @@ Independent developer account for AI, software, code, website, application, and 
 
 <br>
 
-<img src="https://img.shields.io/badge/Focus-Artificial_Intelligence-blue?style=flat-square" alt="AI">
-<img src="https://img.shields.io/badge/Focus-Software_Development-green?style=flat-square" alt="Software">
-<img src="https://img.shields.io/badge/Focus-Web_Development-orange?style=flat-square" alt="Web">
-<img src="https://img.shields.io/badge/Focus-App_Development-red?style=flat-square" alt="Apps">
+<img src="https://img.shields.io/badge/Developer-Full_Stack-blue?style=for-the-badge" alt="Role">
+<img src="https://img.shields.io/badge/Main_Focus-AI_&_Automation-red?style=for-the-badge" alt="Focus">
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,php,mysql,git,linux" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,php,mysql,git,linux,vscode,discord,github,pyvm" alt="Skills" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=false" alt="Stats" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Project_Status-Active-brightgreen?style=flat-square" alt="Status">
+<img src="https://img.shields.io/badge/Contributions-Open-orange?style=flat-square" alt="Contributions">
+<img src="https://img.shields.io/badge/Maintenance-Yes-blue?style=flat-square" alt="Maintenance">
 
 </div>
