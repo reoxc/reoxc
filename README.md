@@ -8,6 +8,8 @@
 Independent developer account for AI, software, code, website, application, and tool development.
   Local server systems developer 
   and databases 
+  He is a language developer 
+  Reox
 </div>
 
 <br>
